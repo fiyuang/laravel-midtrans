@@ -61,6 +61,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Midtrans Sandbox
-Midtrans Documentation: https://snap-docs.midtrans.com
-Midtrans Dashboard: https://dashboard.sandbox.midtrans.com
-Midtrans Payment Simulator: https://simulator.sandbox.midtrans.com/assets/index.html
+- Midtrans Documentation: https://snap-docs.midtrans.com
+- Midtrans Dashboard: https://dashboard.sandbox.midtrans.com
+- Midtrans Payment Simulator: https://simulator.sandbox.midtrans.com/assets/index.html
