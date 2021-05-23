@@ -18,4 +18,3 @@ Route::get('/', function () {
 });
 
 Route::get('/donation', 'DonationController@index')->name('donation.index');
-Route::post('/api/donation', 'DonationController@store')->name('donation.store');

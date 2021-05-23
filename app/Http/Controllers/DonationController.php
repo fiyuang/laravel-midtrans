@@ -65,7 +65,7 @@ class DonationController extends Controller
 
     public function notification(Request $request)
     {
-        $notif = new Veritrans_Notification();
+        $notif = new \Midtrans\Notification();
         \DB::transaction(function() use($notif) {
 
           $transactionStatus = $notif->transaction_status;
